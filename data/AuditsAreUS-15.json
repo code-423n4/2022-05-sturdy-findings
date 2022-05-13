@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "Payble function allows for Eth transfer even when ERC20 tokens are being used",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/15"
+}
