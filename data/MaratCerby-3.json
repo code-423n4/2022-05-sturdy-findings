@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "MaratCerby",
+  "address": "0x40385F27D90eb7A7FCa6F521176C6eBADBE57632",
+  "risk": "2",
+  "title": "SafeApprove is must be used instead of approve",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/3"
+}
