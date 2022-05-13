@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/17"
+}
