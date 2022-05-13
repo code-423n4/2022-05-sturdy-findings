@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "AlleyCat",
+  "address": "0x9dfcc853d908ef27ec32826c96306841218e88f4",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/20"
+}
