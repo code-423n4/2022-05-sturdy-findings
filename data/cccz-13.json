@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "3",
+  "title": "LidoVault : Wrong code order prevents users from receiving ether",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/13"
+}
