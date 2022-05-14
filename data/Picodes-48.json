@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "Picodes",
+  "address": "0x9843C8a8263308A309BfC3C2d1c308126D8E754D",
+  "risk": "2",
+  "title": "`UNISWAP_FEE` is hardcoded which will lead to significant losses compared to optimal routing",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/48"
+}
