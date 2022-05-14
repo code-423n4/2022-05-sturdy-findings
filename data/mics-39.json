@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "mics",
+  "address": "0xAA69a63F3E6150df1880Fdbf46A422b45beb4113",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/39"
+}
