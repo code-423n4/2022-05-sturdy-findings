@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "The check for value transfer success is made after the return statement in  _withdrawFromYieldPool of LidoVault",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/157"
+}
