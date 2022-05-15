@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "`processYield()` and `distributeYield()` may run out of gas and revert due to long list of extra rewards/yields",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/70"
+}
