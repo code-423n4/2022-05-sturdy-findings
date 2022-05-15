@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "Withdraw all with `amount: type(uint256).max` in native token (ETH) will always revert",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/97"
+}
