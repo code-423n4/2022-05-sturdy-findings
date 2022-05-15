@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "kebabsec",
+  "address": "0xB2fbcF2Fb1Eb86464d60F04bEd4065404cD67e18",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/145"
+}
