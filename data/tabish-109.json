@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "tabish",
+  "address": "0xD6FCD2F85fE975bB9b0f3C1B1c6802bB09d33E43",
+  "risk": "3",
+  "title": "User does not get funds if sending ETH in LidoVault.sol fails, funds stay suck in the contract",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/109"
+}
