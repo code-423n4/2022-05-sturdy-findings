@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "broccolirob",
+  "address": "0x5233aF283E7C359a1011Dc0ff480298E90c8CFd6",
+  "risk": "3",
+  "title": "Initialization function can be front-run",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/165"
+}
