@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "sseefried",
+  "address": "0x033e21B02373489ff2f7a2c2f1B109a1bC6158aD",
+  "risk": "2",
+  "title": "Return value of send of ether not checked in `_withdrawFromYieldPool`",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/156"
+}
