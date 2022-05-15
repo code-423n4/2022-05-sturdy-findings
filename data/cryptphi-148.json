@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Missing zero address check in LidoVault._withdrawFromYieldPool() could lead to loss of fund",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/148"
+}
