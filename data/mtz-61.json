@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "mtz",
+  "address": "0x602411A87ff854A9565e72A88a53c8b17dA3509d",
+  "risk": "3",
+  "title": "Title: Yield can be unfairly divided because of MEV/Just-in-time stablecoin deposits",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/61"
+}
