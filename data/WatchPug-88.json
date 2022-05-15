@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H5] `LidoVault.sol` Wrong implementation can cause the users to lose their funds when withdrawing ETH",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/88"
+}
