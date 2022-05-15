@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "berndartmueller",
+  "address": "0x6A897b32996D342535791a74B8a40E75DDf2486e",
+  "risk": "2",
+  "title": "Withdrawing ETH collateral with max uint256 amount value reverts transaction",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/85"
+}
