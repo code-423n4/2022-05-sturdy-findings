@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "CertoraInc",
+  "address": "0x777bA383e74062dd7948A61471267E8e4370EA39",
+  "risk": "3",
+  "title": "Withdraw success check don't happen",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/96"
+}
