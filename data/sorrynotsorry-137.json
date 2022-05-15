@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679C04cc7f2a14c0c03486D0287c4853",
+  "risk": "3",
+  "title": "At LidoVault.sol, `_withdrawFromYieldPool()`function,  ETH transfer return value is not checked",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/137"
+}
