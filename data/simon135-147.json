@@ -1,0 +1,9 @@
+{
+  "contest": 125,
+  "handle": "simon135",
+  "address": "0x7bFbaBDa21BEEBB17E284901BfC41E942F8128C8",
+  "risk": "2",
+  "title": "require statment to very importent call to a contract,never gets called ",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2022-05-sturdy-findings/issues/147"
+}
